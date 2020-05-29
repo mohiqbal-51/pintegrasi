@@ -1,0 +1,48 @@
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\bin\Debug\ruwetApp_v1.exe.config
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\bin\Debug\ruwetApp_v1.exe
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\bin\Debug\ruwetApp_v1.pdb
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\bin\Debug\ruwetApp_v1.xml
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.Resources.resources
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbproj.GenerateResource.Cache
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.exe
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.xml
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.pdb
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\bin\Debug\Newtonsoft.Json.dll
+c:\users\sonhaji\documents\visual studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonhaji\Documents\Visual Studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.formRead.resources
+C:\Users\sonhaji\Documents\Visual Studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbprojResolveAssemblyReference.cache
+C:\Users\sonhaji\Documents\Visual Studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.formCreate.resources
+C:\Users\sonhaji\Documents\Visual Studio 2015\Projects\ruwetApp_v1\ruwetApp_v1\obj\Debug\ruwetApp_v1.formEdit.resources
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\bin\Debug\ruwetApp_v1.exe.config
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\bin\Debug\ruwetApp_v1.exe
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\bin\Debug\ruwetApp_v1.pdb
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\bin\Debug\ruwetApp_v1.xml
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\bin\Debug\Newtonsoft.Json.dll
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\bin\Debug\Newtonsoft.Json.xml
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbprojAssemblyReference.cache
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.formCreate.resources
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.formEdit.resources
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.formRead.resources
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.Resources.resources
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbproj.GenerateResource.cache
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbproj.CopyComplete
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.exe
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.xml
+D:\ruwetApp_v1-master\ruwetApp_v1-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.pdb
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\bin\Debug\ruwetApp_v1.exe.config
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\bin\Debug\ruwetApp_v1.exe
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\bin\Debug\ruwetApp_v1.pdb
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\bin\Debug\ruwetApp_v1.xml
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\bin\Debug\Newtonsoft.Json.dll
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\bin\Debug\Newtonsoft.Json.xml
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbprojAssemblyReference.cache
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.formCreate.resources
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.formEdit.resources
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.formRead.resources
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.Resources.resources
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbproj.GenerateResource.cache
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbproj.CoreCompileInputs.cache
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.vbproj.CopyComplete
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.exe
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.xml
+D:\Tugas\Semester 6\Pemrograman Integrasi\Laporan UAS\formintegrasi-master\formintegrasi-master\ruwetApp_v1\obj\Debug\ruwetApp_v1.pdb
